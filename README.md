@@ -20,12 +20,12 @@ This project aims to improve **DNA enhancer prediction** by utilizing **ensemble
 
 ## 📂 Repository Structure  
 Projects/ 
-│── Dynamic_Ensemble_DNA_Enhancer_Colab.ipynb # Google Colab notebook 
-│── data/ # Dataset files  
-│── models/ # Saved trained models  
-│── results/ # Performance metrics and reports 
-│── LICENSE # License file 
-│── README.md # Project documentation
+- │── Dynamic_Ensemble_DNA_Enhancer_Colab.ipynb # Google Colab notebook 
+- │── data/ # Dataset files  
+- │── models/ # Saved trained models  
+- │── results/ # Performance metrics and reports 
+- │── LICENSE # License file 
+- │── README.md # Project documentation
 
 ## 📈 Key Features  
 ✔️ **Preprocessing DNA sequences** using One-Hot Encoding and CountVectorizer  
