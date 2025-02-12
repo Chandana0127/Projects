@@ -1,7 +1,7 @@
 # Projects
 This repository contains various projects related to data science and machine learning. Below is an overview of the current project in this repository.
 
-DYNAMIC ENSEMBLE TECHNIQUE FOR DNA ENHANCER PREDICTION USING MACHINE LEARNING METHODS
+# DYNAMIC ENSEMBLE TECHNIQUE FOR DNA ENHANCER PREDICTION USING MACHINE LEARNING METHODS
 
 # 📌 Project Overview  
 DNA enhancers are crucial **non-coding sequences** that regulate gene expression, impacting various biological processes and disease mechanisms. This project implements a **dynamic ensemble learning approach** that combines multiple machine learning and deep learning models to **accurately predict DNA enhancer sequences**.  
