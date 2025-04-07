@@ -1,6 +1,3 @@
-# Projects
-This repository contains various projects related to data science and machine learning. Below is an overview of the current project in this repository.
-
 # DYNAMIC ENSEMBLE TECHNIQUE FOR DNA ENHANCER PREDICTION USING MACHINE LEARNING METHODS
 
 # 📌 Project Overview  
